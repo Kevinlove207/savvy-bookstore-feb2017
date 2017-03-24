@@ -3,6 +3,10 @@
 
 ---
 
+### Instructions
+
+To get started, run `npm install`.
+
 ### Contributors
 
 - James Candan
