@@ -4,14 +4,14 @@
 
 var book1 = {
     "id": 1,
-    "name": "The Lion, The Witch, and the Wardrobe",
-    "author": "C. S. Lewis",
-    "picture_url": "images/the-lion-the-witch-and-the-wardrobe.jpg",
+    "name": "The Count of Monte Cristo",
+    "author": "Alexandre Dumas",
+    "picture_url": "https://talesuntangled.files.wordpress.com/2011/04/count-of-monte-cristo.jpg",
     "price": 50,
     "selling_points": [
-        "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
-        "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
-        "Lorem ipsum dolor sit amet, consectetur adipisicing elit."
+        "Count on Adventure!",
+        "Count on Romance!",
+        "Count on REVENGE!"
     ]
 };
 
